@@ -17,6 +17,8 @@
 
 Все запросы можно выполнить на главной странице.
 
+<img width="760" height="864" alt="chrome_O3GlTLDfZE" src="https://github.com/user-attachments/assets/ebac1115-aac1-4cd9-a0cc-42ad507fa7d1" />
+
 ## Как правильно сохранять файлы
 
 Любые изменяемые файлы необходимо сохранять в [постоянное хранилище Amvera](https://docs.amvera.ru/applications/storage.html#data). Файлы внутри директории с кодом могут быть потеряны после пересборки приложения.
